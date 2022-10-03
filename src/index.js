@@ -6,5 +6,5 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App greeting = {'Hello' + ' React Noinja'}/>);
+root.render(<App />);
 reportWebVitals();
